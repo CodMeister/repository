@@ -3,11 +3,11 @@ package chapter06exercise;
 public class PrinterExample {
 
 	public static void main(String[] args) {
-		//ÀÌÀü ¹®Á¦¿Í ¹Ù²ï Á¡ : °´Ã¼ »ı¼º x, printer ¡æ Printer »ı¼ºÀÚ ÀÌ¸§¿¡¼­ °´Ã¼ ÀÌ¸§À¸·Î ¹Ù²ñ.
+		//ì´ì „ ë¬¸ì œì™€ ë°”ë€ ì  : ê°ì²´ ìƒì„± x, printer â†’ Printer ìƒì„±ì ì´ë¦„ì—ì„œ ê°ì²´ ì´ë¦„ìœ¼ë¡œ ë°”ë€œ.
 		Printer.println(10);
 		Printer.println(true);
 		Printer.println(5.7);
-		Printer.println("È«±æµ¿");
+		Printer.println("í™ê¸¸ë™");
 	}
 
 }
